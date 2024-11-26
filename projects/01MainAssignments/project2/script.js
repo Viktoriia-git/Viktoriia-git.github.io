@@ -153,7 +153,7 @@ function draw() {
         push();
         fill(0);
         rect(0, 0, width, 320);
-        rect(0, 560, width, 340);
+        rect(0, 560, width, 400);
         pop();
     }
 }
