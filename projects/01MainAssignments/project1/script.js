@@ -5,7 +5,7 @@ let scatteredPoints = [];
 let scatteredIndices = [];
 
 function preload() {
-  font = loadFont("Barriecito-Regular.ttf"); 
+  font = loadFont("Barriecito-Regular.otf"); 
 }
 
 function setup() {
